@@ -23,3 +23,28 @@ display: flex;
 justify-content: space-between;
 list-style: none;
 }
+.name{
+font-size: 40px;
+font-weight: bold;
+margin-left: 300px;
+}
+.span{
+    color: orange;
+}
+.span1{
+    color: rgb(10, 171, 235);
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 300px;
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+.br{
+    color: black;
+}
