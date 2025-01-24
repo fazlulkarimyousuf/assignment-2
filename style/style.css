@@ -1,0 +1,25 @@
+#school{
+    color: orange;
+}
+#about{
+    color:   skyblue;
+}
+#facili{
+    color: #05d4df;
+}
+#admi{
+    color: #5D58EF;
+}
+#but{
+    background-color: orange;
+     color: white;
+    border-radius: 5px;
+    margin-bottom: 20px
+    
+}
+.ul{
+justify-items: ;
+display: flex;
+justify-content: space-between;
+list-style: none;
+}
